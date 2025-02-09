@@ -1,2 +1,4 @@
 text in stash file
 new changes
+
+adding extra text without commiting
