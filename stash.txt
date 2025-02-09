@@ -1,1 +1,2 @@
 text in stash file
+new changes
